@@ -1,0 +1,147 @@
+.background{
+background-image: url("../images/drew-coffman-1872.jpg");
+background-size: 100% 100%;
+height: 100vh;
+background-repeat: no-repeat;
+
+
+
+
+}
+
+.logo {
+    width: 200px;
+
+}
+
+
+.nav-link{
+
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.nav-link:hover{
+
+    color:#795548 ;
+}
+
+
+.contant1{
+
+    color: rgb(255, 255, 255);
+}
+
+.contant1 h4{
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.contant1 h2{
+
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.img1{
+    width:40%;
+}
+
+.icon1{
+    font-size: 25px;
+    color: #795548;
+}
+
+
+
+.list h5{
+
+    font-size: 20px;
+}
+
+
+
+.btn1{
+    background-color:#b39363 !important;
+    color:white !important;
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+}
+
+
+.btn1:hover {
+    background-color: aliceblue !important;
+    color: black !important;
+ 
+    
+    
+}
+
+.btn2{
+    border: 2px solid rgb(240, 240, 240) !important;
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+    color:aliceblue !important;
+}
+
+.btn2:hover{
+    background-color: beige !important;
+    color: black !important;
+}
+
+.border1{
+    background-color: #795548;
+  
+    width: 35px ;
+    height: 35px;
+}
+
+.icon2{
+
+    color: aliceblue;
+   
+}
+ .lastlast{
+    background-color:#403D38 ;
+ }
+
+ .about{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .about4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+ }
+ .footer{
+    background-color: #292724 ;
+ }
+
+ .footer img{
+
+    width: 300px;
+    
+ }
+
+ .icon3{
+
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 30px;
+ }
+
+ .face :hover{
+    color: blue;
+ }
+
+ .twitter :hover{
+    color: #1DA1F2    ;
+
+
+ }
